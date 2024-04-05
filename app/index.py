@@ -362,5 +362,5 @@ def printCoint(clickData, start_date, end_date, interval):
     
 # Run the app
 if __name__ == '__main__':
-    app.run(debug=True, port=8059)
+    app.run(debug=True)
 

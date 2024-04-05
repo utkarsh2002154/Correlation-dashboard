@@ -1,9 +1,8 @@
-yfinance
-dash
-dash_bootstrap_components
-statsmodels.tsa.stattools
-pandas
-plotly.express
-matplotlib.pyplot
-numpy
-datetime
+yfinance==0.2.18
+dash==2.16.1
+dash_bootstrap_components==1.5.0
+statsmodels==0.12.0
+pandas==1.4.0
+plotly.express==5.20.0
+matplotlib==3.3.2
+numpy==1.23.5

@@ -1,0 +1,9 @@
+yfinance
+dash
+dash_bootstrap_components
+statsmodels.tsa.stattools
+pandas
+plotly.express
+matplotlib.pyplot
+numpy
+datetime
